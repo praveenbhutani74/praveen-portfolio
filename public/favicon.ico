@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Praveen Bhutani Portfolio Favicon</title>
+  <style>
+    :root { color-scheme: light dark; }
+    .bg { fill: #ffffff; }
+    .fg { fill: #0b1220; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0b1220; }
+      .fg { fill: #7dd3fc; }
+    }
+  </style>
+  <!-- Rounded square background -->
+  <rect class="bg" x="2" y="2" width="60" height="60" rx="14"/>
+  <!-- Minimal code <>/ mark -->
+  <g class="fg">
+    <!-- Left angle bracket < -->
+    <path d="M21 20 L12 32 L21 44" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+    <!-- Right angle bracket > -->
+    <path d="M43 20 L52 32 L43 44" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+    <!-- Center slash / -->
+    <path d="M35 18 L29 46" fill="none" stroke-width="6" stroke-linecap="round" stroke="currentColor"/>
+  </g>
+</svg>
